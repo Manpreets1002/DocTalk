@@ -1,0 +1,18 @@
+# Agenetic Structure for Chatbot
+langgraph
+
+
+# For Prompts and LLM
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+
+# RAG DB
+faiss-cpu
+chromadb
+qdrant-client
+
+# Backend
+fastapi
+uvicorn
